@@ -17,7 +17,6 @@ yum install fish -y
 curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install | fish
 # default install /usr/bin/fish
 # https://techviewleo.com/configure-fish-shell-with-oh-my-fish/
-cd
 
 #2 line theme commmadn fish 
 omf install ays
